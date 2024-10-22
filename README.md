@@ -25,4 +25,4 @@ Passionate software enthusiast with a strong foundation in programming and probl
 
 ![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=vue-dark&hide_border=false)
 
-![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)(https://leetcode.com/u/AKASH2403/)
+[![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
