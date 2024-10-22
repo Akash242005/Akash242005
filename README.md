@@ -21,8 +21,8 @@
 
 
 
-![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=vue-dark&hide_border=false)
+![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=tokyonight&hide_border=true)
 
 [![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
