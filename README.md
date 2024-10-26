@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Akash
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="330" height="290" src="https://i.pinimg.com/originals/d8/93/5c/d8935c16b449f0ec8396ab5252772f45.jpg">
 - 🔭 Here's my [portfolio](https://shorturl.at/Ve3FS)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science and Web Development.
