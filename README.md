@@ -5,7 +5,7 @@
 - 🔭 Here's my [portfolio](https://shorturl.at/Ve3FS)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science and Web Development.
-- 🤔 I’m looking for help with Placements in FAANG
+- 🤔 I’m looking for help with Placements in FAANG 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/b-akash-387162256)
