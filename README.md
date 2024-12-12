@@ -1,4 +1,4 @@
-# Hi there 👋 It's me Akash
+# Hi there 👋 It's me Akash 
  
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
 <img align="right" width="330" height="290" src="https://i.pinimg.com/originals/d8/93/5c/d8935c16b449f0ec8396ab5252772f45.jpg">
