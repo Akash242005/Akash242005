@@ -22,11 +22,11 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
 
 
-![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
-![Akash242005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash242005&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![Akash242005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash242005&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
-![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=algolia&hide_border=true)
+![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=algolia&hide_border=false)
 
 [![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
 
