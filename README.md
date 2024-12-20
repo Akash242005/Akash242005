@@ -26,7 +26,7 @@
 
 ![Akash242005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash242005&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
-![Akash242005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=algolia&hide_border=false)
+![Akash242005'sStreak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=algolia&hide_border=false)
 
 [![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
 
