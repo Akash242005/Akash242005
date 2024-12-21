@@ -28,6 +28,6 @@
 
 ![Akash242005'sStreak](https://github-readme-streak-stats.herokuapp.com/?user=Akash242005&theme=algolia&hide_border=false)
 
-[![LeetCode Stats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
+[![LeetCodeStats](https://leetcode.panchajanya.dev/AKASH2403?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/AKASH2403/)
 
 [![](https://visitcount.itsvg.in/api?id=Akash242005&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
